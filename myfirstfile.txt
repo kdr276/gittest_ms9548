@@ -1,2 +1,5 @@
 whatever
-this is gonna go wrong...
+this is alllll goood...
+MergeConflictText
+Sure
+Yes
