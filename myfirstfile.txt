@@ -1,1 +1,4 @@
 whatever
+MergeConflictText
+Sure
+Yes
