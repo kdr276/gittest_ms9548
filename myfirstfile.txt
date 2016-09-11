@@ -2,4 +2,4 @@ whatever
 this is alllll goood...
 MergeConflictText
 Sure
-Yes
+YesKDR editing your file
